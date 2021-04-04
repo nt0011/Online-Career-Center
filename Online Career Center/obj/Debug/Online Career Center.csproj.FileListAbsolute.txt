@@ -1,0 +1,48 @@
+C:\Users\nganb\Desktop\Test Web\Online Career Center\Online Career Center\bin\Online Career Center.dll.config
+C:\Users\nganb\Desktop\Test Web\Online Career Center\Online Career Center\bin\Online Career Center.dll
+C:\Users\nganb\Desktop\Test Web\Online Career Center\Online Career Center\bin\Online Career Center.pdb
+C:\Users\nganb\Desktop\Test Web\Online Career Center\Online Career Center\bin\roslyn\csc.exe
+C:\Users\nganb\Desktop\Test Web\Online Career Center\Online Career Center\bin\roslyn\csc.exe.config
+C:\Users\nganb\Desktop\Test Web\Online Career Center\Online Career Center\bin\roslyn\csc.rsp
+C:\Users\nganb\Desktop\Test Web\Online Career Center\Online Career Center\bin\roslyn\csi.exe
+C:\Users\nganb\Desktop\Test Web\Online Career Center\Online Career Center\bin\roslyn\csi.exe.config
+C:\Users\nganb\Desktop\Test Web\Online Career Center\Online Career Center\bin\roslyn\csi.rsp
+C:\Users\nganb\Desktop\Test Web\Online Career Center\Online Career Center\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\nganb\Desktop\Test Web\Online Career Center\Online Career Center\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\nganb\Desktop\Test Web\Online Career Center\Online Career Center\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\nganb\Desktop\Test Web\Online Career Center\Online Career Center\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\nganb\Desktop\Test Web\Online Career Center\Online Career Center\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\nganb\Desktop\Test Web\Online Career Center\Online Career Center\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\nganb\Desktop\Test Web\Online Career Center\Online Career Center\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\nganb\Desktop\Test Web\Online Career Center\Online Career Center\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\nganb\Desktop\Test Web\Online Career Center\Online Career Center\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\nganb\Desktop\Test Web\Online Career Center\Online Career Center\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\nganb\Desktop\Test Web\Online Career Center\Online Career Center\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\nganb\Desktop\Test Web\Online Career Center\Online Career Center\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\nganb\Desktop\Test Web\Online Career Center\Online Career Center\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\nganb\Desktop\Test Web\Online Career Center\Online Career Center\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\nganb\Desktop\Test Web\Online Career Center\Online Career Center\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\nganb\Desktop\Test Web\Online Career Center\Online Career Center\bin\roslyn\vbc.exe
+C:\Users\nganb\Desktop\Test Web\Online Career Center\Online Career Center\bin\roslyn\vbc.exe.config
+C:\Users\nganb\Desktop\Test Web\Online Career Center\Online Career Center\bin\roslyn\vbc.rsp
+C:\Users\nganb\Desktop\Test Web\Online Career Center\Online Career Center\bin\roslyn\VBCSCompiler.exe
+C:\Users\nganb\Desktop\Test Web\Online Career Center\Online Career Center\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\nganb\Desktop\Test Web\Online Career Center\Online Career Center\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\nganb\Desktop\Test Web\Online Career Center\Online Career Center\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\nganb\Desktop\Test Web\Online Career Center\Online Career Center\obj\Debug\Online Career Center.csprojAssemblyReference.cache
+C:\Users\nganb\Desktop\Test Web\Online Career Center\Online Career Center\obj\Debug\Online Career Center.csproj.CoreCompileInputs.cache
+C:\Users\nganb\Desktop\Test Web\Online Career Center\Online Career Center\obj\Debug\Online Career Center.csproj.CopyComplete
+C:\Users\nganb\Desktop\Test Web\Online Career Center\Online Career Center\obj\Debug\Online Career Center.dll
+C:\Users\nganb\Desktop\Test Web\Online Career Center\Online Career Center\obj\Debug\Online Career Center.pdb
+C:\Users\nganb\Desktop\Test Web\Online Career Center\Online Career Center\bin\roslyn\System.Buffers.dll
+C:\Users\nganb\Desktop\Test Web\Online Career Center\Online Career Center\bin\roslyn\System.Memory.dll
+C:\Users\nganb\Desktop\Test Web\Online Career Center\Online Career Center\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\nganb\Desktop\Test Web\Online Career Center\Online Career Center\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nganb\Desktop\Test Web\Online Career Center\Online Career Center\bin\Antlr3.Runtime.dll
+C:\Users\nganb\Desktop\Test Web\Online Career Center\Online Career Center\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\nganb\Desktop\Test Web\Online Career Center\Online Career Center\bin\Newtonsoft.Json.dll
+C:\Users\nganb\Desktop\Test Web\Online Career Center\Online Career Center\bin\System.Web.Optimization.dll
+C:\Users\nganb\Desktop\Test Web\Online Career Center\Online Career Center\bin\WebGrease.dll
+C:\Users\nganb\Desktop\Test Web\Online Career Center\Online Career Center\bin\Antlr3.Runtime.pdb
+C:\Users\nganb\Desktop\Test Web\Online Career Center\Online Career Center\bin\Newtonsoft.Json.xml
+C:\Users\nganb\Desktop\Test Web\Online Career Center\Online Career Center\bin\System.Web.Optimization.xml
